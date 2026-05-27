@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "棋牌類遊戲", "棋牌類遊戲\棋牌類遊戲.csproj", "{310F98DD-9660-4593-8EAE-5D7108032526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310F98DD-9660-4593-8EAE-5D7108032526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310F98DD-9660-4593-8EAE-5D7108032526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310F98DD-9660-4593-8EAE-5D7108032526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310F98DD-9660-4593-8EAE-5D7108032526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A52934-EA0B-4EDF-9DD7-5526E392E60C}
+	EndGlobalSection
+EndGlobal
